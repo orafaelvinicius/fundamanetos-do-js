@@ -7,7 +7,8 @@ console.log(primeirNumero === segundoNumero);
 
 // comparando strings
 
-const texto1 = "Rafaaa"
+const texto1 = "rafael"
 const texto2 = "Rafael"
 
 console.log(texto1 === texto2)
+
